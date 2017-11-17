@@ -1,3 +1,0 @@
-2017/11/17 13:43:01 [error] 6#6: *5 open() "/var/www/favicon.ico" failed (2: No such file or directory), client: 172.17.0.1, server: test.local, request: "GET /favicon.ico HTTP/1.1", host: "test.local", referrer: "http://test.local/index.php"
-2017/11/17 14:22:20 [error] 6#6: *1 directory index of "/var/www/" is forbidden, client: 172.17.0.1, server: test.local, request: "GET / HTTP/1.1", host: "test.local"
-2017/11/17 14:22:55 [error] 6#6: *1 directory index of "/var/www/web/" is forbidden, client: 172.17.0.1, server: test.local, request: "GET /web/ HTTP/1.1", host: "test.local"
